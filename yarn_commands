@@ -1,2 +1,4 @@
 #to reset cache 
 yarn start --reset-cache
+#to install npm packages in packages.json 
+yarn install 
