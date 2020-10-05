@@ -1,0 +1,6 @@
+#to start your project
+npm start
+#to remove all your node_modules 
+rm -rf node_modules
+#to install packages in packages.json file
+npm install --save
