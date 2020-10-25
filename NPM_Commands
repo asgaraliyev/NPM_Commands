@@ -4,3 +4,5 @@ npm start
 rm -rf node_modules
 #to install packages in packages.json file
 npm install --save
+#for only update packages-lock.json file
+npm install --package-lock-only
