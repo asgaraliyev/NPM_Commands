@@ -6,3 +6,5 @@ rm -rf node_modules
 npm install --save
 #for only update packages-lock.json file
 npm install --package-lock-only
+#deleting chaches from npm 
+npm cache clean -f
