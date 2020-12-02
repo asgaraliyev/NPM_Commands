@@ -1,2 +1,0 @@
-#to stop all of node workers
-taskkill /im node.exe /F
