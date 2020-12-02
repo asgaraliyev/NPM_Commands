@@ -1,7 +1,7 @@
 git config --global user.name "FIRST_NAME LAST_NAME" 
-# repositorye adinizi config eder
+# gite adinizi config eder
 git config --global user.email "MY_NAME@example.com"
-# repositorye mailinizigit config eder
+# gite mailinizigit config eder
 git config user.name
 # username test etme
 git config user.emaili
@@ -25,4 +25,4 @@ git checkout HEAD~ -- static/img/universities
 git checkout a8684616ee7ece95d99d86ac5a744c55b910fefa  -- templates/head.html
 # istenilen pathi geri qayatiri istenilen commitden
 git checkout -f <branch-name>
-#axrinci commit edilmis versiyani yukleyir pull push falan etmeden
+# olmayan fayllari ve setrleri hemin branchdan cekir
