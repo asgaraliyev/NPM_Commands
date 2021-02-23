@@ -26,3 +26,5 @@ git checkout a8684616ee7ece95d99d86ac5a744c55b910fefa  -- templates/head.html
 # istenilen pathi geri qayatiri istenilen commitden
 git checkout -f <branch-name>
 # olmayan fayllari ve setrleri hemin branchdan cekir
+git rm -rf --cached myuntrackedfolder
+#git terefinden hesaba alinmayan fayli cacheden silirki commit edile bilsin blacklist kimi bir seydi
