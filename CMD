@@ -1,2 +1,4 @@
-#to stop all of node workers
+#to stop all of node workers in windows
 taskkill /im node.exe /F
+#to stop all of node workers in linux
+sudo killall -9 node
