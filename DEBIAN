@@ -1,0 +1,2 @@
+killall -s KILL node
+sudo find / -type f -name "android-studio*"
